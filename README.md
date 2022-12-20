@@ -7,4 +7,4 @@ RestApi takes a parameter in this given format -
    "input": "Rock"
 }
 
-we can also put paper or scissor instead Rock which will act as player1 move.
+we can also put Paper or Scissor instead Rock which will act as player1 move.
