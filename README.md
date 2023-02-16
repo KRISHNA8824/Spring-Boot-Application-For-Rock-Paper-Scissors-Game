@@ -8,3 +8,5 @@ RestApi takes a parameter in this given format -
 }
 
 we can also put Paper or Scissor instead Rock which will act as player1 move.
+
+This project contains all unit test cases.
